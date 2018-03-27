@@ -6,3 +6,7 @@ function theBeatlesPlay(musicians, instruments){
   }
   return sentences;
 }
+
+function johnLennonFacts(facts){
+  while
+}
