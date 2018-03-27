@@ -16,4 +16,5 @@ function johnLennonFacts(facts){
     exclamation[i] = exclaimed;
     i++;
   }
+  return exclamation
 }
