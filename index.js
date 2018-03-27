@@ -1,3 +1,5 @@
+var i = 0
+
 function theBeatlesPlay(musicians, instruments){
   var sentences = [];
   for (i = 0; i < musicians.length; i++) {
