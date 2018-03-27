@@ -18,3 +18,8 @@ function johnLennonFacts(facts){
   }
   return exclamation;
 }
+
+function iLoveTheBeatles(num){
+  var love = [];
+  
+}
