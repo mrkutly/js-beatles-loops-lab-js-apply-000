@@ -4,4 +4,5 @@ function theBeatlesPlay(musicians, instruments){
     newSentence = musicians[i] + " plays " + instruments[i] + ".";
     sentences.push(newSentence)
   }
+  return sentences
 }
