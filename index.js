@@ -13,7 +13,7 @@ function johnLennonFacts(facts){
   var exclamation = []; 
   while (i < facts.length){
     var exclaimed = facts[i] + "!!!";
-    exclamation[i] = exclaimed;
+    exclamation.push(exclaimed);
     i++;
   }
   return exclamation;
