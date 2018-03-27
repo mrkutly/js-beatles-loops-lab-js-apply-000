@@ -1,4 +1,4 @@
-var i = 0
+var i = 0;
 
 function theBeatlesPlay(musicians, instruments){
   var sentences = [];
@@ -16,5 +16,5 @@ function johnLennonFacts(facts){
     exclamation[i] = exclaimed;
     i++;
   }
-  return exclamation
+  return exclamation;
 }
